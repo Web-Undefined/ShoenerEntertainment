@@ -2925,6 +2925,16 @@ button:disabled:active,
     width: calc(100% + 6em);
 }
 
+.trophy {
+    max-height: 20em;
+}
+.flexd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 /* Copyright */
 
 #copyright {
